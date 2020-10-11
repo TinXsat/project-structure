@@ -12,8 +12,21 @@ Table of contents
 
 <!-- Automatic "Table of contents" bot will genereate TOC here, DO NOT remove it! -->
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Mission 🌈](#mission-)
+- [Satellite 🛰](#satellite-%F0%9F%9B%B0)
+  - [Satellite launch 🚀](#satellite-launch-)
+  - [Sensors aboard 🌡](#sensors-aboard-%F0%9F%8C%A1)
+  - [Satellite 2 ground communication ☎️](#satellite-2-ground-communication-)
+- [Ground station 📡](#ground-station-)
+- [Ground back-end server 🖥](#ground-back-end-server-%F0%9F%96%A5)
+- [Front-end 📱](#front-end-)
+- [Further data analisys 📊](#further-data-analisys-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Mission 🌈
 What is our mission that we want to accomplish here?
