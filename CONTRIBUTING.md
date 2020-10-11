@@ -5,9 +5,15 @@
 ## Commiting workflow itself
 If you want to suggest/ask about anything, make an issue.  If you want to change anything - make a pull request, and if you can - wait for other crew members' review  👁
 
+If your pr/issue solve/mention something in our [project's tasks list](https://github.com/orgs/TinXsat/projects/1), go ahead and pin it there too 💯 !
+
+### Creating pull requests
 If your pull request resolves some issue, remember to tag it with `resolves #<issue_number>` - the issue will close automatically when the PR merges ⚰️
 
-If your changes solve/mention something in our [project's tasks list](https://github.com/orgs/TinXsat/projects/1), go ahead and pin it there too 💯 !
+Write inital messages in standard `git commit message` style - that is:
+ - Use the imperative mood - "Change this file and fix it" instead of "Chanded this file and fixed it"
+ - Do't end the subject line with a period
+ - keep it short but infomative, etc
 
 Don't commit directly to master ⛔️!
 
