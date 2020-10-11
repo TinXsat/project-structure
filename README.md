@@ -10,17 +10,10 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 Table of contents
 ===================
 
-<!--ts-->
- - [Mission](#mission-)
- - [Satellite](#satellite-)
-    - [Satellite launch](#satellite-launch-)
-    - [Sensors aboard](#sensors-aboard-)
-    - [Satellite 2 ground communication](#satellite-2-ground-communication-)
- - [Ground station](#ground-station-)
- - [Ground back-end server](#ground-back-end-server-)
- - [Front-end](#front-end-)
- - [Further data analisys](#further-data-analisys-)
-<!--te-->
+<!-- Automatic "Table of contents" bot will genereate TOC here, DO NOT remove it! -->
+
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # Mission 🌈
 What is our mission that we want to accomplish here?
