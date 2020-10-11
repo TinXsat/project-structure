@@ -13,15 +13,15 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Mission 🌈](#mission-)
-- [Satellite 🛰](#satellite-%F0%9F%9B%B0)
-  - [Satellite launch 🚀](#satellite-launch-)
-  - [Sensors aboard 🌡](#sensors-aboard-%F0%9F%8C%A1)
-  - [Satellite 2 ground communication ☎️](#satellite-2-ground-communication-)
-- [Ground station 📡](#ground-station-)
-- [Ground back-end server 🖥](#ground-back-end-server-%F0%9F%96%A5)
-- [Front-end 📱](#front-end-)
-- [Further data analisys 📊](#further-data-analisys-)
+- [Mission :rainbow:](#mission-rainbow)
+- [Satellite :satellite:](#satellite-satellite)
+  - [Satellite launch :rocket:](#satellite-launch-rocket)
+  - [Sensors aboard :thermometer:](#sensors-aboard-thermometer)
+  - [Satellite 2 ground communication :phone:](#satellite-2-ground-communication-phone)
+- [Ground station :radio:](#ground-station-radio)
+- [Ground back-end server :computer:](#ground-back-end-server-computer)
+- [Front-end :iphone:](#front-end-iphone)
+- [Further data analisys :bar_chart:](#further-data-analisys-bar_chart)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
