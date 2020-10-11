@@ -1,0 +1,13 @@
+name: Generate TOC
+
+on: [pull_request, push]
+
+jobs:
+  generate_toc:
+    name: Generate TOC
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/toc-generator@v2
+        with:
+          COMMIT_MESSAGE: 'TOC Bot: Update TOC'  
+          CREATE_PR: false
