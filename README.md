@@ -7,8 +7,6 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 
 <sub><sub>[Inserting emojis](https://getemoji.com/) into every single header is also required, and not respecting that will be punished 🔪 </sub></sub>
 
-Table of contents
-===================
 
 <!-- Automatic "Table of contents" bot will genereate TOC here, DO NOT remove it! -->
 
