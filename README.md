@@ -2,10 +2,10 @@
 
 This repo is purely for discussing and planning the whole project's structure - what will communicate with what and how, how software will be organised, etc - whole "schema"
 
-### Contributing 📝
-All discusion and changes will be done through Pull Requests and Issues - commiting directly to master is officially illegal here  🚫 ✋ ⛔
+### Contributing :pencil:
+All discusion and changes will be done through Pull Requests and Issues - commiting directly to master is officially illegal here  :no_entry_sign: :hand: :no_entry:
 
-<sub><sub>[Inserting emojis](https://getemoji.com/) into every single header is also required, and not respecting that will be punished 🔪 </sub></sub>
+<sub><sub>[Inserting emojis](https://gist.github.com/rxaviers/7360908) into every single header is also required, and not respecting that will be punished 🔪 </sub></sub>
 
 
 <sub>Note: this doesn't work because of emojis - I know. The doctoc generator creator needs to take care of it :/</sub>
@@ -25,28 +25,28 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Mission 🌈
+# Mission :rainbow:
 What is our mission that we want to accomplish here?
 
-# Satellite 🛰
+# Satellite :satellite:
 How the cansat sattelite will look and work to help us do the mission?
 
-## Satellite launch 🚀
+## Satellite launch :rocket:
 How we will actually launching the sattelite (that is take it to 1.5km above)?
 
-## Sensors aboard 🌡
+## Sensors aboard :thermometer:
 
-## Satellite 2 ground communication ☎️
+## Satellite 2 ground communication :phone:
 How our satellite will communicate with the ground station?
 
-# Ground station 📡
-What is ground station and how it will work and pass us *the data* 📈?
+# Ground station :radio:
+What is ground station and how it will work and pass us *the data* :chart_with_upwards_trend:?
 
-# Ground back-end server 🖥
+# Ground back-end server :computer:
 What is main server and how it will parse and process *the data*?
 
-# Front-end 📱
+# Front-end :iphone:
 What is our front-end app and what it will do?
 
-# Further data analisys 📊
+# Further data analisys :bar_chart:
 What we will further do with *the data* beyond the elements above?
