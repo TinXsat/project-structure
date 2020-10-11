@@ -4,21 +4,22 @@ This repo is purely for discussing and planning the whole project's structure - 
 
 ### Contributing 📝
 All discusion and changes will be done through Pull Requests and Issues - commiting directly to master is officially illegal here  🚫 ✋ ⛔
+
 <sub><sub>[Inserting emojis](https://getemoji.com/) into every single header is also required, and not respecting that will be punished 🔪 </sub></sub>
 
-# Table of contents
+Table of contents
 ===================
 
 <!--ts-->
- - [Mission](#mission)
- - [Satellite](#satellite)
-    - [Satellite launch](#satellite-launch)
-    - [Sensors aboard](#sensors-aboard)
-    - [Sattelite <-> ground communication](#sattelite-2-ground-communication)
- - [Ground station](#ground-station)
- - [Ground back-end server](#ground-back-end-server)
- - [Front-end](#front-end)
- - [Further data analisys](#further-data-analisys)
+ - [Mission](#mission-)
+ - [Satellite](#satellite-)
+    - [Satellite launch](#satellite-launch-)
+    - [Sensors aboard](#sensors-aboard-)
+    - [Satellite 2 ground communication](#satellite-2-ground-communication-)
+ - [Ground station](#ground-station-)
+ - [Ground back-end server](#ground-back-end-server-)
+ - [Front-end](#front-end-)
+ - [Further data analisys](#further-data-analisys-)
 <!--te-->
 
 # Mission 🌈
@@ -32,7 +33,7 @@ How we will actually launching the sattelite (that is take it to 1.5km above)?
 
 ## Sensors aboard 🌡
 
-## Sattelite 2 ground communication ☎️
+## Satellite 2 ground communication ☎️
 How our satellite will communicate with the ground station?
 
 # Ground station 📡
