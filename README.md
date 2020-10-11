@@ -8,8 +8,7 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 <sub><sub>[Inserting emojis](https://getemoji.com/) into every single header is also required, and not respecting that will be punished 🔪 </sub></sub>
 
 
-<!-- Automatic "Table of contents" bot will genereate TOC here, DO NOT remove it! -->
-
+<sub>Note: this doesn't work because of emojis - I know. The doctoc generator creator needs to take care of it :/</sub>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
