@@ -13,6 +13,11 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 **Table of Contents**
 
 - [Mission :rainbow:](#mission-rainbow)
+  - [Measurements of atmospheric pressure and temperature with subsequent data analysis.](#measurements-of-atmospheric-pressure-and-temperature-with-subsequent-data-analysis)
+    - [Key goals :key:](#key-goals-key)
+  - [Demonstration of cansat system for rescue operations during natural disasters.](#demonstration-of-cansat-system-for-rescue-operations-during-natural-disasters)
+    - [Key goals :key:](#key-goals-key-1)
+    - [Optional goals :small_blue_diamond:](#optional-goals-small_blue_diamond)
 - [Satellite :satellite:](#satellite-satellite)
   - [Satellite launch :rocket:](#satellite-launch-rocket)
   - [Sensors aboard :thermometer:](#sensors-aboard-thermometer)
