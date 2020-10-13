@@ -30,7 +30,7 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Mission :rainbow:
-## Measurements of atmospheric pressure and temperature with subsequent data analysis.
+## Measurements of atmospheric pressure and temperature with subsequent data analysis :thermometer:
 
 ### Key goals :key:
 
@@ -38,7 +38,7 @@ All discusion and changes will be done through Pull Requests and Issues - commit
  - Radio transmission of measurements data in minimal rate one packet per second.
  - Calculation of altitude based on atmospheric pressure.
 
-## Demonstration of cansat system for rescue operations during natural disasters.
+## Demonstration of cansat system for rescue operations during natural disasters :volcano:
 
 ### Key goals :key:
 
