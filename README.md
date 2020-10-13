@@ -13,6 +13,11 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 **Table of Contents**
 
 - [Mission :rainbow:](#mission-rainbow)
+  - [Measurements of atmospheric pressure and temperature with subsequent data analysis :thermometer:](#measurements-of-atmospheric-pressure-and-temperature-with-subsequent-data-analysis-thermometer)
+    - [Key goals :key:](#key-goals-key)
+  - [Demonstration of cansat system for rescue operations during natural disasters :volcano:](#demonstration-of-cansat-system-for-rescue-operations-during-natural-disasters-volcano)
+    - [Key goals :key:](#key-goals-key-1)
+    - [Optional goals :small_blue_diamond:](#optional-goals-small_blue_diamond)
 - [Satellite :satellite:](#satellite-satellite)
   - [Satellite launch :rocket:](#satellite-launch-rocket)
   - [Sensors aboard :thermometer:](#sensors-aboard-thermometer)
@@ -25,7 +30,29 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Mission :rainbow:
-What is our mission that we want to accomplish here?
+## Measurements of atmospheric pressure and temperature with subsequent data analysis :thermometer:
+
+### Key goals :key:
+
+ - Measure of pressure and temperature outside the cansat.
+ - Radio transmission of measurements data in minimal rate one packet per second.
+ - Calculation of altitude based on atmospheric pressure.
+
+## Demonstration of cansat system for rescue operations during natural disasters :volcano:
+
+### Key goals :key:
+
+ - Design system that meet following requirements:
+ - low cost of produce
+ - high accuracy
+ - Access to information about position(GPS), altitude (barometer), temperature, acceleration
+ - Take photos from the thermovision and visible range camera.
+ - Mark on photos all obstacles (to protect rescuers) and places where people could possibly be.
+
+### Optional goals :small_blue_diamond:
+
+ - Investigate fire resistant biofiber composite with which body of cansat will be build
+ - Pointing geographical coordinates of marked obstacles/humans.
 
 # Satellite :satellite:
 How the cansat sattelite will look and work to help us do the mission?
