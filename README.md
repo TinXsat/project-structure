@@ -26,6 +26,7 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 - [Ground back-end server :computer:](#ground-back-end-server-computer)
 - [Front-end :iphone:](#front-end-iphone)
 - [Further data analisys :bar_chart:](#further-data-analisys-bar_chart)
+- [Gantt timeline chart :alarm_clock:](#gantt-timeline-chart-alarm_clock)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
