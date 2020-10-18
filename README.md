@@ -76,3 +76,6 @@ What is our front-end app and what it will do?
 
 # Further data analisys :bar_chart:
 What we will further do with *the data* beyond the elements above?
+
+# Gantt timeline chart :alarm_clock:
+Our timeline is drawn as a Gantt chart - you can view it in [gantt-chart.md](gantt-chart.md)
