@@ -26,6 +26,7 @@ All discusion and changes will be done through Pull Requests and Issues - commit
 - [Ground back-end server :computer:](#ground-back-end-server-computer)
 - [Front-end :iphone:](#front-end-iphone)
 - [Further data analisys :bar_chart:](#further-data-analisys-bar_chart)
+- [Gantt timeline chart :alarm_clock:](#gantt-timeline-chart-alarm_clock)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -76,3 +77,6 @@ What is our front-end app and what it will do?
 
 # Further data analisys :bar_chart:
 What we will further do with *the data* beyond the elements above?
+
+# Gantt timeline chart :alarm_clock:
+Our timeline is drawn as a Gantt chart - you can view it in [gantt-chart.md](gantt-chart.md)
