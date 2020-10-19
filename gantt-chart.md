@@ -44,7 +44,7 @@ gantt
     
     section Testing 
     FDR writing : 2021-01-22, 2021-03-01
-    Software tests :crit 2021-01-22, 2021-02-22
+    Software tests :crit, 2021-01-22, 2021-02-22
     Recovery system tests :crit, 2021-01-30, 2021-02-10
     Mechanical tests :crit, 2021-02-05, 2021-02-20
     
