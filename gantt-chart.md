@@ -24,13 +24,35 @@ Generally, stick to the format where you just write begin and end date
 
 ```mermaid
 gantt
-    title TinX timeline
+    title TinX gantt chart
     dateFormat  YYYY-MM-DD
     
-    section Documents
-    Preliminary Design Review : 2020-10-01, 2020-10-27
-    Critical Design Review  : 2020-11-03, 2021-01-15
-    Final Design Review : 2021-01-22, 2021-03-01
+    section Designing
+    PDR writing :done, 2020-10-01, 2020-10-27
+    Ideas collecting :done, 2020-10-01, 2020-10-10
+    Creating PoC of ideas : 2020-10-05, 2020-10-15
+    Online workshops :done, 2020-10-05, 2020-10-07
+    Designing mechanical structure :done, 2020-10-05, 2020-10-20
+    Designing electrical structure :done, 2020-10-05, 2020-10-20
+    Designing software structure :done, 2020-10-05, 2020-10-20
+    
+    section Constructing
+    CDR writing : 2020-11-03, 2021-01-15
+    Materials tests :crit, 2020-11-03, 2020-12-03
+    Final budget estimation : 2020-11-25, 2020-12-03
+    CanSat building :crit, 2020-11-03, 2021-01-10
+    
+    section Testing 
+    FDR writing : 2021-01-22, 2021-03-01
+    Software tests :crit, 2021-01-22, 2021-02-22
+    Recovery system tests :crit, 2021-01-30, 2021-02-10
+    Mechanical tests :crit, 2021-02-05, 2021-02-20
+    
+    section Social works
+    Social media managing : 2020-10-01, 2021-03-01
+    Creating list of cooperators : 2020-10-01, 2020-10-27
+    Establishing cooperation :crit, 2020-10-10, 2021-01-15
+    
 ```
 
 </details>
