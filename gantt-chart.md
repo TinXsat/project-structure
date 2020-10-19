@@ -31,16 +31,22 @@ gantt
     PDR writing : 2020-10-01, 2020-10-27
     Ideas collecting : 2020-10-01, 2020-10-10
     Creating PoC of ideas : 2020-10-05, 2020-10-15
+    Online workshops : 2020-10-05, 2020-10-07
     Designing mechanical structure : 2020-10-05, 2020-10-20
     Designing electrical structure : 2020-10-05, 2020-10-20
     Designing software structure : 2020-10-05, 2020-10-20
-    Online workshops : 2020-10-05, 2020-10-07
     
     section Constructing
     CDR writing : 2020-11-03, 2021-01-15
-
+    Materials tests : 2020-11-03, 2020-12-03
+    Final budget estimation : 2020-11-25, 2020-12-03
+    CanSat building : 2020-11-25, 2021-01-10
+    
     section Testing 
     FDR writing : 2021-01-22, 2021-03-01
+    Software tests : 2021-01-22, 2021-02-22
+    Recovery system tests : 2021-01-30, 2021-02-10
+    Mechanical tests : 2021-02-05, 2021-02-20
     
     section Social works
     Social media managing : 2020-10-01, 2021-03-01
