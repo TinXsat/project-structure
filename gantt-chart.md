@@ -24,17 +24,17 @@ Generally, stick to the format where you just write begin and end date
 
 ```mermaid
 gantt
-    title TinX timeline
+    title TinX gantt chart
     dateFormat  YYYY-MM-DD
     
     section Designing
-    PDR: 2020-10-01, 2020-10-27
+    PDR : 2020-10-01, 2020-10-27
     section Constructing
-    CDR: 2020-11-03, 2021-01-15
+    CDR : 2020-11-03, 2021-01-15
     section Testing 
-    FDR: 2021-01-22, 2021-03-01
+    FDR : 2021-01-22, 2021-03-01
     section Social works
-    Social media managing: 2020-10-01, 2021-03-01
+    Social media managing : 2020-10-01, 2021-03-01
     
 ```
 
