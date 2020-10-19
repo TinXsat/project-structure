@@ -9,6 +9,8 @@ on:
   # Refresh the red line that shows "when/where" we are now
   schedule:
     - cron: "0 0 */5 * *"
+  workflow_dispatch:
+
 
 jobs:
   build:
