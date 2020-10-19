@@ -28,13 +28,24 @@ gantt
     dateFormat  YYYY-MM-DD
     
     section Designing
-    PDR : 2020-10-01, 2020-10-27
+    PDR writing : 2020-10-01, 2020-10-27
+    Ideas collecting : 2020-10-01, 2020-10-10
+    Creating PoC of ideas : 2020-10-05, 2020-10-15
+    Designing mechanical structure : 2020-10-05, 2020-10-20
+    Designing electrical structure : 2020-10-05, 2020-10-20
+    Designing software structure : 2020-10-05, 2020-10-20
+    Online workshops : 2020-10-05, 2020-10-07
+    
     section Constructing
-    CDR : 2020-11-03, 2021-01-15
+    CDR writing : 2020-11-03, 2021-01-15
+
     section Testing 
-    FDR : 2021-01-22, 2021-03-01
+    FDR writing : 2021-01-22, 2021-03-01
+    
     section Social works
     Social media managing : 2020-10-01, 2021-03-01
+    Creating list of cooperators : 2020-10-01, 2020-10-27
+    Establishing cooperation : 2020-10-10, 2021-01-15
     
 ```
 
