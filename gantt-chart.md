@@ -27,10 +27,15 @@ gantt
     title TinX timeline
     dateFormat  YYYY-MM-DD
     
-    section Documents
-    Preliminary Design Review : 2020-10-01, 2020-10-27
-    Critical Design Review  : 2020-11-03, 2021-01-15
-    Final Design Review : 2021-01-22, 2021-03-01
+    section Designing
+    PDR: 2020-10-01, 2020-10-27
+    section Constructing
+    CDR: 2020-11-03, 2021-01-15
+    section Testing 
+    FDR: 2021-01-22, 2021-03-01
+    section Social works
+    Social media managing: 2020-10-01, 2021-03-01
+    
 ```
 
 </details>
