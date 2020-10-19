@@ -6,6 +6,9 @@ on:
       - '**/*.mermaid'
       - '**/*.mmd'
       - '**/*.md'
+  # Refresh the red line that shows "when/where" we are now
+  schedule:
+    - cron: "0 0 */5 * *"
 
 jobs:
   build:
