@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A25L032
+D 1Mbit, 3.0V Standard and Dual Serial Flash, SOP-8
+K SPI DSPI QSPI 1Mbit 3.0V
+F http://www.elm-tech.com/en/products/spi-flash-memory/gd25d10/gd25d10.pdf
+$ENDCMP
+#
+$CMP Conn_01x08_Male
+D Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP GD25D05CT
+D 512kbit, 3.0V Standard and Dual Serial Flash, SOP-8
+K SPI DSPI QSPI 512Kbit 3.0V
+F http://www.elm-tech.com/en/products/spi-flash-memory/gd25d10/gd25d10.pdf
+$ENDCMP
+#
+#End Doc Library
