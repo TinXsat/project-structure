@@ -1,4 +1,4 @@
-19080644730848814
+19098332243344585
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83195,6 +83195,62 @@ phoenix_contact connector MSTBVA_01x03_G_5.00mm
 3
 3
 Zasilacz_brama
+PinHeader_1x02_P2.54mm_SMD
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+Zasilacz_brama
+PinHeader_1x03_P2.00mm_SMD
+Through hole straight pin header, 1x03, 2.00mm pitch, single row
+Through hole pin header THT 1x03 2.00mm single row
+0
+3
+3
+Zasilacz_brama
+PinHeader_1x04_P2.54mm_SMD
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Zasilacz_brama
+PinHeader_1x05_P2.00mm_Vertical
+Through hole straight pin header, 1x05, 2.00mm pitch, single row
+Through hole pin header THT 1x05 2.00mm single row
+0
+5
+5
+Zasilacz_brama
+PinHeader_1x05_P2.54mm_SMD
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Zasilacz_brama
+PinHeader_1x06_P2.00mm_SMD
+Through hole straight pin header, 1x06, 2.00mm pitch, single row
+Through hole pin header THT 1x06 2.00mm single row
+0
+6
+6
+Zasilacz_brama
+PinHeader_1x06_P2.00mm_Vertical
+Through hole straight pin header, 1x06, 2.00mm pitch, single row
+Through hole pin header THT 1x06 2.00mm single row
+0
+6
+6
+Zasilacz_brama
+PinHeader_1x08_P2.00mm_SMD
+Through hole straight pin header, 1x06, 2.00mm pitch, single row
+Through hole pin header THT 1x06 2.00mm single row
+0
+8
+8
+Zasilacz_brama
 PowerIntegrations_PDIP-8C
 Power Integrations variant of 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-iii_family_datasheet.pdf
 THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
@@ -83264,3 +83320,24 @@ solder jumper open
 0
 4
 4
+footprints
+Conn_uSDcard
+
+
+0
+13
+9
+footprints
+TP4056_SOP-8-PP
+8-Lead Plastic SOP-8-PP
+SSOP 0.50 exposed pad
+0
+9
+9
+footprints
+TPS61175PWP
+
+
+0
+15
+15
