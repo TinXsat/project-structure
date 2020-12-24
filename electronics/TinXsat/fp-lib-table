@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TinXsat)(type KiCad)(uri ${KIPRJMOD}/TinXsat.pretty)(options "")(descr ""))
+)

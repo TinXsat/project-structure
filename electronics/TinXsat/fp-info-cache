@@ -1,4 +1,4 @@
-19098332461186443
+19112809519758554
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81647,6 +81647,69 @@ test point THT pad
 0
 1
 1
+TinXsat
+BATT
+Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x02 2.54mm single row
+0
+2
+2
+TinXsat
+ESP32-CAM
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+16
+16
+TinXsat
+LED_D5.0mm-4_RGB
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+TinXsat
+PinHeader_1x02_P2mm_SMD
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+TinXsat
+PinHeader_1x03_P2mm_SMD
+Through hole straight pin header, 1x03, 2.00mm pitch, single row
+Through hole pin header THT 1x03 2.00mm single row
+0
+3
+3
+TinXsat
+PinHeader_1x04_P2mm_SMD
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+TinXsat
+PinHeader_1x05_P2mm_SMD
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+TinXsat
+PinHeader_1x06_P2mm_SMD
+Through hole straight pin header, 1x06, 2.00mm pitch, single row
+Through hole pin header THT 1x06 2.00mm single row
+0
+6
+6
+TinXsat
+PinHeader_1x08_P2mm_SMD
+Through hole straight pin header, 1x06, 2.00mm pitch, single row
+Through hole pin header THT 1x06 2.00mm single row
+0
+8
+8
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
