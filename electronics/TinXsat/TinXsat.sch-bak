@@ -4430,7 +4430,7 @@ U 1 1 5FEDD748
 P 5700 3850
 F 0 "J7" H 5728 3876 50  0000 L CNN
 F 1 "ESP-card" H 5728 3785 50  0000 L CNN
-F 2 "Zasilacz_brama:PinHeader_1x08_P2.00mm_SMD" H 5700 3850 50  0001 C CNN
+F 2 "TinXsat:PinHeader_1x08_P2mm_SMD" H 5700 3850 50  0001 C CNN
 F 3 "~" H 5700 3850 50  0001 C CNN
 	1    5700 3850
 	1    0    0    -1  
@@ -4495,17 +4495,6 @@ Wire Wire Line
 	5150 4300 5000 4300
 Text GLabel 1700 6850 0    50   Input ~ 0
 FLASH_WP
-$Comp
-L sch-lib:A25L032 U2
-U 1 1 60070B82
-P 2250 6750
-F 0 "U2" H 1900 7250 50  0000 C CNN
-F 1 "A25L032" H 2000 7150 50  0000 C CNN
-F 2 "Package_SO:SOP-8_3.9x4.9mm_P1.27mm" H 2250 6150 50  0001 C CNN
-F 3 "http://www.elm-tech.com/en/products/spi-flash-memory/gd25d10/gd25d10.pdf" H 2250 6750 50  0001 C CNN
-	1    2250 6750
-	1    0    0    -1  
-$EndComp
 $Comp
 L power:GND #PWR0162
 U 1 1 60075C68
@@ -4580,17 +4569,6 @@ Wire Wire Line
 Wire Wire Line
 	1700 6750 1750 6750
 $Comp
-L Device:R R15
-U 1 1 60255FDC
-P 3000 6800
-F 0 "R15" V 2900 6800 50  0000 C CNN
-F 1 "10k" V 2800 6800 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2930 6800 50  0001 C CNN
-F 3 "~" H 3000 6800 50  0001 C CNN
-	1    3000 6800
-	0    -1   -1   0   
-$EndComp
-$Comp
 L power:+3V3 #PWR0159
 U 1 1 60256D6F
 P 3350 6700
@@ -4603,10 +4581,6 @@ F 3 "" H 3350 6700 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3350 6700 3350 6800
-Wire Wire Line
-	3350 6800 3150 6800
-Wire Wire Line
-	2850 6800 2750 6800
 Wire Wire Line
 	1700 6850 1750 6850
 $Comp
@@ -4865,4 +4839,30 @@ Wire Wire Line
 	21450 13600 21300 13600
 Wire Wire Line
 	21300 13600 21300 13800
+$Comp
+L Device:R R15
+U 1 1 60130731
+P 3000 6800
+F 0 "R15" V 2900 6800 50  0000 C CNN
+F 1 "10k" V 2800 6800 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2930 6800 50  0001 C CNN
+F 3 "~" H 3000 6800 50  0001 C CNN
+	1    3000 6800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3150 6800 3350 6800
+Wire Wire Line
+	2750 6800 2850 6800
+$Comp
+L sch-lib:A25L032 U2
+U 1 1 60070B82
+P 2250 6750
+F 0 "U2" H 1900 7250 50  0000 C CNN
+F 1 "A25L032" H 2000 7150 50  0000 C CNN
+F 2 "Package_SO:SOP-8_3.9x4.9mm_P1.27mm" H 2250 6150 50  0001 C CNN
+F 3 "http://www.elm-tech.com/en/products/spi-flash-memory/gd25d10/gd25d10.pdf" H 2250 6750 50  0001 C CNN
+	1    2250 6750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
