@@ -70,7 +70,13 @@ How our satellite will communicate with the ground station?
 What is ground station and how it will work and pass us *the data* :chart_with_upwards_trend:?
 
 # Ground back-end server :computer:
-What is main server and how it will parse and process *the data*?
+[Back-end server](https://github.com/TinXsat/server) takes care of receiving data from [ground station](#ground-station-radio),
+parsing and processing it, and serving it to the [front-end](#front-end-iphone).
+It also caches and saves any data that it received, in case satellite would fall apart
+
+![Sounds like proxy+cache with extra steps](images/sounds_like_slavery.png)
+
+It is written in [Python](https://www.python.org/), and uses [Flask](https://flask.palletsprojects.com/) to serve a REST API
 
 # Front-end :iphone:
 What is our front-end app and what it will do?
