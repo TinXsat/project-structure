@@ -77,7 +77,7 @@ Our front-end is a dashboard that will show us what is currently happening with 
 
 ![Screenshot of front-end](images/front-end_screenshot.png)
 
-It is built in Flutter, and compiled to a web app. It gets data form the server through REST endpoints, probably instantly, through localhost, since they will be hosted on same computer
+It is built in Flutter, and compiled to a web app. It gets data form [the server](#ground-back-end-server-computer) through REST endpoints, probably instantly, through localhost, since they will be hosted on same computer
 
 # Further data analisys :bar_chart:
 What we will further do with *the data* beyond the elements above?
