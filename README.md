@@ -73,7 +73,9 @@ What is ground station and how it will work and pass us *the data* :chart_with_u
 What is main server and how it will parse and process *the data*?
 
 # Front-end :iphone:
-What is our front-end app and what it will do?
+Our front-end is a dashboard that will show us what is currently happening with the sattelite while it's in the air - for example, a map showing where the sattelite is right now, animation (like at SpaceX) about in what stage of the mission it currently is, etc
+
+It is built in Flutter, and compiled to a web app. It gets data form the server through REST endpoints, probably instantly, through localhost, since they will be hosted on same computer
 
 # Further data analisys :bar_chart:
 What we will further do with *the data* beyond the elements above?
