@@ -92,4 +92,4 @@ What we will further do with *the data* beyond the elements above?
 
 ![~mermaid diagram 1~](/output/gantt-chart-md-1.png)
 
-// You can view it in [gantt-chart.md](gantt-chart.md)
+// You can view the code-block it in [gantt-chart.md](gantt-chart.md)
