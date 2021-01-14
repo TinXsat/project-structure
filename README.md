@@ -79,7 +79,11 @@ It also caches and saves any data that it received, in case satellite would fall
 It is written in [Python](https://www.python.org/), and uses [Flask](https://flask.palletsprojects.com/) to serve a REST API
 
 # Front-end :iphone:
-What is our front-end app and what it will do?
+Our front-end is a dashboard that will show us what is currently happening with the sattelite while it's in the air - for example, a map showing where the sattelite is right now, animation (like at SpaceX) about in what stage of the mission it currently is, etc
+
+![Screenshot of front-end](images/front-end_screenshot.png)
+
+It is built in Flutter, and compiled to a web app. It gets data form [the server](#ground-back-end-server-computer) through REST endpoints, probably instantly, through localhost, since they will be hosted on same computer
 
 # Further data analisys :bar_chart:
 What we will further do with *the data* beyond the elements above?
