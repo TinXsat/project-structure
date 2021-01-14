@@ -79,7 +79,7 @@ It also caches and saves any data that it received, in case satellite would fall
 It is written in [Python](https://www.python.org/), and uses [Flask](https://flask.palletsprojects.com/) to serve a REST API
 
 # Front-end :iphone:
-Our front-end is a dashboard that will show us what is currently happening with the sattelite while it's in the air - for example, a map showing where the sattelite is right now, animation (like at SpaceX) about in what stage of the mission it currently is, etc
+[Our front-end](https://github.com/TinXsat/frontend) is a dashboard that will show us what is currently happening with the sattelite while it's in the air - for example, a map showing where the sattelite is right now, animation (like at SpaceX) about in what stage of the mission it currently is, etc
 
 ![Screenshot of front-end](images/front-end_screenshot.png)
 
