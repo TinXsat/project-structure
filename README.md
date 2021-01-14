@@ -89,4 +89,7 @@ It is built in Flutter, and compiled to a web app. It gets data form [the server
 What we will further do with *the data* beyond the elements above?
 
 # Gantt timeline chart :alarm_clock:
-Our timeline is drawn as a Gantt chart - you can view it in [gantt-chart.md](gantt-chart.md)
+
+![~mermaid diagram 1~](/output/gantt-chart-md-1.png)
+
+// You can view it in [gantt-chart.md](gantt-chart.md)
