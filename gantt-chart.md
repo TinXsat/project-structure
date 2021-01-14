@@ -40,6 +40,7 @@ gantt
     CDR writing : 2020-11-03, 2021-01-15
     Materials tests :crit, 2020-11-03, 2020-12-03
     Final budget estimation : 2020-11-25, 2020-12-03
+    Soldering PCBs : 2020-12-03, 2021-01-10
     CanSat building :crit, 2020-11-03, 2021-01-10
     
     section Testing 
