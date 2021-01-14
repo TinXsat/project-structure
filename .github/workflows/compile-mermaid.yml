@@ -7,9 +7,11 @@ on:
       - '**/*.mmd'
       - '**/*.md'
   # Refresh the red line that shows "when/where" we are now
-  schedule:
-    - cron: "0 0 */5 * *"
-  workflow_dispatch:
+  
+  # Commented for now, since it's useless :/
+  # schedule:
+  #   - cron: "0 0 */5 * *"
+  # workflow_dispatch:
 
 
 jobs:
