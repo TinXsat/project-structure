@@ -42,21 +42,21 @@ gantt
     Final budget estimation : 2020-11-25, 2020-12-03
     Soldering PCBs : 2020-12-03, 2021-01-10
     CanSat building :crit, 2020-11-03, 2021-01-10
-    Collecting final CanSat's "release candidates" :crit 2021-03-05, 2021-04-15
+    Assemly of final "launch candidate" :crit 2021-03-05, 2021-03-29
     
     section Testing 
     FDR writing : 2021-01-22, 2021-03-01
     Software tests :crit, 2021-01-22, 2021-02-22
     Recovery system tests :crit, 2021-01-30, 2021-02-10
     Mechanical tests :crit, 2021-02-05, 2021-02-20
-    Grand test of whole system : 2021-03-01, 2021-04-30
+    Grand test of whole system : 2021-03-01, 2021-04-01
     
     section Social works
     Social media managing : 2020-10-01, 2021-03-01
     Creating list of cooperators : 2020-10-01, 2020-10-27
     Establishing cooperation :crit, 2020-10-10, 2021-01-15
-    Collecting materials about final stage : 2021-03-05, 2021-06-15
-    Publication of final project summaries : 2021-05-01, 2021-06-30
+    Collecting materials about final stage : 2021-03-05, 2021-04-01
+    Publication of final project summaries : 2021-05-01, 2021-05-01
     
     
 ```
