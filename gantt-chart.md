@@ -56,7 +56,7 @@ gantt
     Creating list of cooperators : 2020-10-01, 2020-10-27
     Establishing cooperation :crit, 2020-10-10, 2021-01-15
     Collecting materials about final stage : 2021-03-05, 2021-04-01
-    Publication of final project summaries : 2021-05-01, 2021-05-01
+    Publication of final project summaries : 2021-03-15, 2021-05-01
     
     
 ```
